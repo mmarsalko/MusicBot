@@ -1,2 +1,0 @@
-python MusicBot.py
-pause
